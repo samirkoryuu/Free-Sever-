@@ -1,0 +1,21 @@
+# Live server data and generated runtime files
+/runtime/
+/server/
+/world/
+/world_nether/
+/world_the_end/
+/plugins/
+/logs/
+/crash-reports/
+/backups/
+server.properties
+eula.txt
+*.jar
+*.log
+
+# Floodgate authentication material
+key.pem
+
+# Common local operating-system files
+Thumbs.db
+.DS_Store

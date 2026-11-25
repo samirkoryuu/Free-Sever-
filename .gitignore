@@ -8,6 +8,7 @@
 /logs/
 /crash-reports/
 /backups/
+*.tar.gz
 server.properties
 eula.txt
 *.jar
